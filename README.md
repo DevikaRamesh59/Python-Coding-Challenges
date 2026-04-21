@@ -1,0 +1,1 @@
+This repository contains a collection of Python coding challenges designed to strengthen problem-solving skills, improve logical thinking, and demonstrate proficiency in core Python concepts. The challenges range from basic syntax and data structures to more advanced topics such as file handling, error handling, and data processing.
